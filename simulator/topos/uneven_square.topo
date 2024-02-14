@@ -1,0 +1,15 @@
+h h1
+h h2
+s s1
+s s2
+s s3
+s s4
+
+l h1 s1
+l h2 s2
+
+l s1 s3 2
+l s3 s2 1
+
+l s2 s4 2
+l s4 s1 1

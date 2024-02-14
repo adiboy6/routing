@@ -1,0 +1,18 @@
+# A simple test topology
+
+# This can be loaded with loader.py
+
+h H1a
+h H1b
+h H3a
+h H3b
+s S1
+s S2
+s S3
+
+l H1a S1
+l H1b S1
+l H3a S3
+l H3b S3
+l S1 S2
+l S2 S3
